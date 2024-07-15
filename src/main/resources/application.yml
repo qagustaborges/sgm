@@ -1,0 +1,21 @@
+server:
+  port: 8080  # Porta padrão, pode ser alterada para qualquer outra porta disponível
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+sonarqube:
+  base-url: http://seu-servidor-sonarqube:9000
+  token: seu_token_de_acesso
+
+logging:
+  level:
+    root: DEBUG

@@ -1,0 +1,11 @@
+sonarqube\sgm\api\dto\ProjetoHistoricoDTO.class
+sonarqube\sgm\api\config\AppConfig.class
+sonarqube\sgm\data\repository\ProjetoRepository.class
+sonarqube\sgm\SonarqubeSgmApplication.class
+sonarqube\sgm\data\model\Projeto.class
+sonarqube\sgm\integration\sonarqube\SonarQubeClient.class
+sonarqube\sgm\api\controller\ProjetoHistoricoController.class
+sonarqube\sgm\config\sonarqube\SonarQubeConfig.class
+sonarqube\sgm\business\service\ProjetoHistoricoServiceImpl.class
+sonarqube\sgm\data\model\ProjetoHistorico.class
+sonarqube\sgm\business\service\ProjetoHistoricoService.class

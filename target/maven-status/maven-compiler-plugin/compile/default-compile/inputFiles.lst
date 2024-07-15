@@ -1,0 +1,11 @@
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\api\config\AppConfig.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\SonarqubeSgmApplication.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\business\service\ProjetoHistoricoServiceImpl.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\data\model\Projeto.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\config\sonarqube\SonarQubeConfig.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\business\service\ProjetoHistoricoService.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\data\repository\ProjetoRepository.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\api\controller\ProjetoHistoricoController.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\integration\sonarqube\SonarQubeClient.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\api\dto\ProjetoHistoricoDTO.java
+C:\Users\tecgu\IdeaProjects\sgm\src\main\java\sonarqube\sgm\data\model\ProjetoHistorico.java
